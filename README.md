@@ -2,4 +2,3 @@
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently learning Html CSS Javascript
 - 💞️ I’m looking to collaborate on anything i can speed up the learning curve.
-- 📫 How to reach me : amadeus_marian@hotmail.com
